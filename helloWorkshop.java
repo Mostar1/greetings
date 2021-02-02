@@ -9,7 +9,6 @@ class helloWorkshop  {
         System.out.println("This is on the topic1 branch");
         System.out.println("This file is written in Java.");
         System.out.println("Isn't this exciting?");
-        System.out.println("Maybe?");
         System.out.println("Really?");
         System.out.println("Okay then.");
         System.out.println("Goodbye Workshop!");
